@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋 :man_technologist:
 
-<!--
-**Terabyte17/Terabyte17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yash Sahijwani. An Electronics Sophomore at IIT-BHU, Varanasi :student:. Passionate about technology and open-source. Interested in robotics :robot: and deep learning.   
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on robotic simulations.
+- 🌱 Currently learning NLP.
+- 💬 Ask me about: tech, memes, football :soccer:
+- ⚡ Languages: C, C++, Python 
+- 📫 How to reach me: 
+  <a href="https://github.com/Terabyte17">
+    <img src="https://github.com/Terabyte17/Terabyte17/blob/master/social/github.png" width="30px;">
+  </a>
+  <a href="https://www.linkedin.com/in/yash-sahijwani-b36aa3149/">
+    <img src="https://github.com/Terabyte17/Terabyte17/blob/master/social/linkedin.svg" width="30px;">
+  </a>
+  <a href="https://twitter.com/terabyte_17">
+    <img src="https://github.com/Terabyte17/Terabyte17/blob/master/social/twitter.svg" width="30px;">
+  </a>
+  <a href="https://www.instagram.com/yash_sahijwani/">
+    <img src="https://github.com/Terabyte17/Terabyte17/blob/master/social/instagram.svg" width="30px;">
+  </a>
