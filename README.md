@@ -3,10 +3,10 @@
 </p>
 
 <h2 align="center">Hello there! My name is Yash Sahijwani. 👋🤓</h2>
-<p align="center">I'm currently a student pursuing my Bachelor of Technology in Electronics Engineering from IIT (BHU), Varanasi :student:. I'm currently passionate about areas of machine learning like deep learning and reinforcment learning:man_technologist:. You can also find me interested in robotics :robot: and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well. 
+<p align="center">I'm currently a student pursuing my Bachelor of Technology in Electronics Engineering from IIT (BHU), Varanasi :student:. I'm passionate about areas of machine learning like deep learning and reinforcment learning:man_technologist:. You can also find me interested in robotics :robot: and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well. 
 </p>
 
-<p align="center">When I'm not developing and coding, you can find me on watching Netflix, Sports or listening to music. Playing football :soccer: was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
+<p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Playing football :soccer: was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
 
 <p align="center">📫 How to reach me: </p>
 <p align="center">
