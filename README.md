@@ -18,7 +18,10 @@
 <img src="https://img.shields.io/badge/Robotics-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> <img src="https://img.shields.io/badge/Python-cyan"> <img src="https://img.shields.io/badge/C++-black">
 </p>
 
-![Yash's github stats](https://github-readme-stats.vercel.app/api?username=Terabyte17&count_private=true&theme=radical)
+<p align=center>  
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=Terabyte17&show_icons=true&theme=radical">
+</p>
+
 
 
 
