@@ -25,10 +25,6 @@
   <img align=center src="https://github-readme-stats.vercel.app/api?username=Terabyte17&show_icons=true&theme=radical">
 </p>
 
-My recent github activity
-<!--START_SECTION:activity-->
-1. Created a PR
-<!--END_SECTION:activity-->
 
 
 
